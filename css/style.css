@@ -21,7 +21,11 @@ body {
     body {
       font-size: 16px; } }
 
-
+.slider-text-inner {
+  display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
 
 a {
   color: #2c98f0;
@@ -287,6 +291,8 @@ figure {
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
+      width: 100%;
+      text-align: center;
       display: table;
       opacity: 0;
       min-height: 500px;
