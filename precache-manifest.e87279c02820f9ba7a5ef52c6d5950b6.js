@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8f33404186114156d595",
+    "revision": "2999abd0fa0b613e45ed",
     "url": "/davidingvi.com/static/css/main.9cd40a7b.chunk.css"
   },
   {
-    "revision": "8f33404186114156d595",
-    "url": "/davidingvi.com/static/js/main.8f334041.chunk.js"
+    "revision": "2999abd0fa0b613e45ed",
+    "url": "/davidingvi.com/static/js/main.2999abd0.chunk.js"
   },
   {
     "revision": "864b1478313b56a24d69",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/davidingvi.com/static/js/2.477d3cfd.chunk.js"
   },
   {
-    "revision": "94dd95465bce210470a49ba3ee1b4c9e",
+    "revision": "0faf30c258d96eb47e02015fe9f16aa2",
     "url": "/davidingvi.com/index.html"
   }
 ];
