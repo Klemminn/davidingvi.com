@@ -10,7 +10,7 @@ const About = () => (
               <div className='about-desc'>
                 <span className='heading-meta'>Davíð Ingvi</span>
                 <h2 className='colorlib-heading'>Hver er ég?</h2>
-                <p>Ég er framúskarandi verkfræðingur, faðir, elskhugi, sonur og vinur.</p>
+                <p>Ég er framúrskarandi verkfræðingur, faðir, elskhugi, sonur og vinur.</p>
               </div>
             </div>
           </div>

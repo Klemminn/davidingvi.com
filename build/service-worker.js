@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/davidingvi.com/precache-manifest.16c13601e5319dceae8cb2d923928c69.js"
+  "/davidingvi.com/precache-manifest.e87279c02820f9ba7a5ef52c6d5950b6.js"
 );
 
 workbox.clientsClaim();
