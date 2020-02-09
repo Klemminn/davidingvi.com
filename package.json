@@ -1,15 +1,17 @@
 {
-  "name": "portfolio-app",
+  "name": "david-ingvi.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://klemminn.github.io/davidingvi.com/",
   "dependencies": {
-    "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",

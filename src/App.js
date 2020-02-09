@@ -1,25 +1,27 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
+import Images from './components/images'
 import About from './components/about'
 import Timeline from './components/timeline'
 
 class App extends Component {
-  render() {
+  render () {
     return (
-      <div id="colorlib-page">
-        <div id="container-wrap">
-         	<Sidebar></Sidebar>
-				<div id="colorlib-main">
-					<Introduction></Introduction>
-					<About></About>
-					<Timeline></Timeline>
-          	</div>
-      	</div>
+      <div id='colorlib-page'>
+        <div id='container-wrap'>
+          <Sidebar />
+          <div id='colorlib-main'>
+            <Introduction />
+            <About />
+            <Images />
+            <Timeline />
+          </div>
+        </div>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
