@@ -41,7 +41,7 @@ export default class Timeline extends Component {
                       </>
                     )
                   ].map((item, index) => (
-                    <article className='timeline-entry animate-box' data-animate-effect='fadeInLeft'>
+                    <article className='timeline-entry animate-box' data-animate-effect='fadeInLeft' key={index}>
                       <div className='timeline-entry-inner'>
                         <div className={`timeline-icon color-${(index % 6) + 1}`}>
                           <i className='icon-pen2' />

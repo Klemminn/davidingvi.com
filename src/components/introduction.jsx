@@ -9,8 +9,8 @@ const Introduction = () => (
             (<h1>Hæ! <br />Davíð heiti ég!</h1>),
             (<h1>Ég er <br /> VERKFRÓÐUR!!!</h1>),
             (<h1>Ég á <br /> flotta fjölskyldu!</h1>)
-          ].map((text) => (
-            <li>
+          ].map((text, index) => (
+            <li key={index}>
               <div className='overlay' />
               <div className='container-fluid'>
                 <div className='row'>
