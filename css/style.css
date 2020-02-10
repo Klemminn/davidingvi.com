@@ -505,7 +505,7 @@ body.offcanvas {
 
 .timeline-centered {
   position: relative;
-  margin-bottom: 30px; }
+  margin-bottom: 10em; }
 
 .timeline-centered:before, .timeline-centered:after {
   content: " ";
