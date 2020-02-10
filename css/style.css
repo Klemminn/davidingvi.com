@@ -228,7 +228,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #colorlib-hero {
   min-height: 500px;
-  background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
   margin-bottom: 2em;
@@ -482,7 +481,6 @@ body.offcanvas {
   border: none; }
 
 .panel-heading a:after {
-  font-family: "icomoon";
   content: "\e115";
   position: absolute;
   right: 20px;
